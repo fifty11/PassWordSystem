@@ -1,7 +1,6 @@
 #ifndef SIXTEN_PASSWORD_SYSTEM
 #define SIXTEN_PASSWORD_SYSTEM
 
-#include <cstdint>
 #include <stdint.h>
 #include <stdlib.h>
 #include <stdbool.h>
